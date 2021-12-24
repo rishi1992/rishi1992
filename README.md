@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishi1992
 - 👀 I’m interested in Automation Testing, Python, Java, JS, etc
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Cypress, JavaScript
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me rmrishimondal@gmail.com
 
